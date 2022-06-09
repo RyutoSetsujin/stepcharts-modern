@@ -36,3 +36,5 @@ This is a big undertaking and unsure if it will ever come to fruition
 * Add DDR A20+ charts
 * Add DDR A3 charts
 * I want to do the ssc parser??? It's probably super hard but I wanna see if it's doable
+* (2022-06-09 9:14 AM MST) I just noticed this doesn't have Dancing Stage feat. TRUE KiSS DESTiNATiON nor does this have some of the DDR Solo megamixes
+* Rename the style short-forms for SuperNOVA 1 and 2 to SN1 and SN2
