@@ -2,7 +2,7 @@
 
 This is a website where Dance Dance Revolution players can browse step charts from the game. The goal is to eventually cover other games like In The Groove as well.
 
-Deployed here: https://ddr.stepcharts.com
+Deployed here: https://ddr.stepcharts.com (original URL)
 
 ## Status
 
@@ -31,6 +31,8 @@ Since there are thousands of songs created by many people over the course of 20 
 
 This is a big undertaking and unsure if it will ever come to fruition
 
-### Current effort/bandwidth
-
-as of this writing (March 2, 2021), I have pulled back on working on this site. I will keep contributing but it's no longer a primary focus.
+### Current Goals
+* Add remaining DDR A20 charts (if there even are any left)
+* Add DDR A20+ charts
+* Add DDR A3 charts
+* I want to do the ssc parser??? It's probably super hard but I wanna see if it's doable
